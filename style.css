@@ -139,8 +139,8 @@ nav.sticky .menu-btn{
 .home .text-three{
   font-size: 40px;
   font-weight: 700;
-  -webkit-text-stroke: 1.5px #0E2431;
-  text-shadow: 0 0 20px #0E2431;
+  /* -webkit-text-stroke: 1.5px #0E2431; */
+  /* text-shadow: 0 0 20px #0E2431; */
   margin: 5px 0;
   color: #4070f4;
 }
